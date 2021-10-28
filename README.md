@@ -27,9 +27,8 @@ Each model corresponds to 1 folder and 1 script found in this repository:
 
 
 <p align="center" width="100%">
-    <img width="33%" src="others/sampling.jpg"> 
+    <img src="others/sampling.jpg"> 
 </p>
-![Screenshot]("others/sampling.jpg")
 
 Due to the lack of computational power and insufficient time to train the deep learning model with the entire data set, it was decided to implement a sampling method capable of separating the data into **N** groups, which they have an equal number of folders with the processed images.
 A special feature of this function is that it selects the folders randomly and without repeating the data; that is, the folders were selected exclusively for each subgroup.
@@ -37,4 +36,6 @@ In addition, to ensure the replicability of the subsequent tests, a seed was use
 
 ## Results
 
-![Screenshot](others/Train-100-Group-1.gif)
+<p align="center" width="100%">
+    <img src="others/Train-100-Group-1.gif"> 
+</p>
