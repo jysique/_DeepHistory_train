@@ -3,7 +3,7 @@ Repository that served for the experimentation of models for the thesis work "De
 
 ## Enviroment
 
-The ** Google Collab ** service was used as an experimentation environment due to the lack of computational power of those in charge of this project. 
+The **Google Collab** service was used as an experimentation environment due to the lack of computational power of those in charge of this project. 
 During the experimentation process, the service of **Google collaborated pro** was hired for the loan of servers with a GPU **Tesla P100-PCIE-16GB** 
 
 ## Dataset
