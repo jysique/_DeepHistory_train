@@ -1,5 +1,5 @@
 # _DeepHistory_train
-Repository that served for the experimentation of models for the thesis work "DeepHistory" by Jose Ysique and Nilton Mercado
+Repository that served for the experimentation of models for the thesis work "DeepHistory" by Jose Ysique and Nilton Mercado.
 
 ## Enviroment
 
@@ -8,7 +8,7 @@ During the experimentation process, the service of **Google collaborated pro** w
 
 ## Dataset
 
-The data set used for the training of all models is called **VoxCeleb**
+The data set used for the training of all models is called **VoxCeleb**.
 Both for the download and for the subsequent processing of said data set, the code provided in the repository of Siarohin et al. (2019). Please follow the instruction from https://github.com/AliaksandrSiarohin/video-preprocessing.
 
 It should be noted that due to the fact that some videos of the data set were no longer available, only 18335 training videos and 488 test videos were obtained, from which frames were extracted that vary in quantity between 64 to 1024.
