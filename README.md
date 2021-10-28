@@ -18,7 +18,7 @@ The total time required to process all of these videos was 39 hours and 9 minute
 ## Train
 
 Each model corresponds to 1 folder and 1 script found in this repository:
-1) Testing for FOMM: first-order-model
+1) Testing for FOMM: first-order-model (folder and script)
 2) Tests for U-Net: first-order-model-unet (folder and script)
 3) Testing for FOMM 6B: first-order-model-6c (folder and script)
 4) Tests for U-Net 3+: first-order-model-unet3 (folder and script)
